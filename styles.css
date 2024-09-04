@@ -1,0 +1,102 @@
+.main{
+    background-color:#96c5d4;
+    padding: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 10px;
+    border-radius: 20px;
+    height: auto;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.navigation{
+    display: flex;
+    flex-direction: row;
+}
+
+li{
+    list-style-type: none;
+    margin-right: 10px;
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight:300;
+}
+
+li:hover{
+    color: green;
+}
+
+.socials{
+    display: flex;
+    flex-direction: row;
+    margin-right: 50px;
+    justify-content: space-between;
+   
+}
+
+h1{
+    font-size: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.buy{
+    background-color:#03c2fc;
+    border: 2px;
+    border-radius: 30px;
+    width: 150px;
+    height: 40px;
+    margin-right: 40px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.explore{
+    background-color:#03c2fc;
+    border: 2px;
+    border-radius: 30px;
+    width: 150px;
+    height: 40px;
+}
+
+.content{
+    margin-left: 40px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.left-content{
+    width: 60%;
+    height: auto;
+}
+  
+
+
+.headphone{
+    
+    width: 40%;
+    margin-left:8px ;
+   
+}
+
+.big-headphone{
+    width: 100%;
+    height: auto;
+}
+.logo{
+    height: 50px;
+    width: 60px;
+    margin-left: 40px;
+
+}
+
+
